@@ -1,0 +1,9 @@
+[package]
+name = "split_last"
+version = "0.0.1"
+edition = "2021"
+authors = ["David Skyberg <davidskyberg@gmail.com>"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/dskyberg/split_last"
+description = "Extend split to return the last element"
+categories = ["text-processing"]
